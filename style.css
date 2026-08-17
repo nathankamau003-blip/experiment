@@ -4,4 +4,5 @@ ol{
 h1{
     padding: 5%;
     margin: 3%;
+    border: solid black 1px;
 }
